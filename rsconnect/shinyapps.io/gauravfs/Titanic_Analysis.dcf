@@ -1,0 +1,12 @@
+name: Titanic_Analysis
+title: Titanic_Analysis
+username: gauravfs
+account: gauravfs
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14410082
+bundleId: 10045175
+url: https://gauravfs.shinyapps.io/Titanic_Analysis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
